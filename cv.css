@@ -1,0 +1,121 @@
+
+body{
+    font-family: 'Lobster', cursive;
+    color: rgb(3, 3, 51);
+    margin:0px;
+    padding:0px;
+    
+    
+}
+body{
+    font-size: 14 px;
+    background-color: rgb(179, 179, 241);
+    background-image: "C:\Users\Guervan\Desktop\IMIE\Python\Python\HTML\champignon.jpg"
+}
+
+
+p{
+    font-size : 10 px;
+    color: rgb(4, 4, 70);
+}
+
+
+#coordonnee{
+    width: 30%;
+    padding: 20px;
+    margin-top:20px;
+    margin-left:30px;
+    background: #d89950;
+    float: left;
+    border-radius: 25%;
+    text-align:center;
+  }
+
+  
+#coordonnee2{
+    width: 30%;
+    padding: 20px;
+    margin-top: 20px;
+    margin-right:30px;
+    background: #d89950;
+    float: right;
+    border-radius: 25%;
+    text-align:center;
+  }
+
+  #coordonnee:hover{
+      background-color:rgb(224, 235, 78);
+      margin-top: 15px;
+      margin-left: 25px;
+  }
+  
+
+header{
+    height: 200px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin-top: 75px;
+    
+}
+
+#image1{    
+    height: 250px;
+    width: 250px;
+    border: 1px solid black;
+    float: left;
+    margin: 0px;
+    border-radius: 50%;
+    line-height: 250px;
+    position: absolute;
+    left: 40%;
+    margin-top: -30px;
+    background-color: rgb(95, 95, 228)
+   
+    top: 0 px;
+}
+
+#image1>img{
+    height: 200px;
+    width: auto;
+    margin: 0px auto;
+    background-color: rgb(92, 92, 230)
+
+    
+}
+
+footer{
+    background-color: rgb(15, 32, 129);
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin: 600px 0px 0px 0px;
+
+}
+
+section{
+    text-align:center;
+   
+}
+h1{
+    
+}
+body{
+    background-image: "https://lehollandaisvolant.net/tuto/firefox/files/ubuntu-body.jpg";
+}
+
+#competence{
+    margin: 50px 0px 0px 0px;
+    float: left;
+}
+
+#experience{
+    float: right;
+    margin: 0px;
+}
+
+#divers{
+    margin: 0px 0px 0px 0px;
+}
+
+#formation{
+    margin: 850px 0px 0px 0px
+}
